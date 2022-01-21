@@ -24,3 +24,13 @@ body{
     border-radius: 50%; 
     
 }
+
+.servicos {
+    background-color:#6EB0EE;
+    color: white;
+}
+
+.bg-footer{
+    background-color: rgba(17, 16, 16, 0.623);
+    color: white;
+}   
